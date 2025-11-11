@@ -1,5 +1,9 @@
 # Build an Ask the Doc App
 
+[![Run on Streamlit](https://img.shields.io/badge/Run%20on-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://infs784-k6grfta8tbjxgff977evl4.streamlit.app/)
+
+
+
 📘 Overview
 
 This project demonstrates how to get answers from documents using embeddings, a vector store, and a question-answering (QA) chain. It builds on previous LangChain tutorials and shows how developers can use large language models (LLMs) to power intelligent applications such as chatbots, personal assistants, and automated content tools.
